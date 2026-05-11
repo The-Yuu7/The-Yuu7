@@ -1,12 +1,12 @@
-<!-- BANNER SUPERIOR ANIMADO -->
+<!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Junior%20Quispe%20Aquino&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20Engineer&descAlignY=58&descAlign=50" />
+  <img src="./banner.jpg" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B96FD8&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Junior+%F0%9F%91%8B;Software+Developer;Python+%26+Django+Lover;Angular+%7C+Laravel+%7C+MongoDB;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B96FD8&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Junior+%F0%9F%91%8B;Ingeniero+de+Sistemas+e+Inform%C3%A1tica" alt="Typing SVG" />
   </a>
 </p>
 
