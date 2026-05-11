@@ -1,8 +1,7 @@
 <!-- BANNER + WAVE EFFECT -->
 <p align="center">
-  <img src="./banner.jpg" width="100%" />
+  <img src="./banner-wave.png" width="100%" />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer&reversal=false" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
