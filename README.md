@@ -73,18 +73,6 @@ Lideré de forma íntegra el **diseño, instalación y puesta en marcha** de una
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senior77&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senior77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🌍 Idiomas
 
 - 🇪🇸 **Español** — Nativo
