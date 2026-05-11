@@ -1,7 +1,8 @@
-<!-- BANNER SUPERIOR -->
+<!-- BANNER + WAVE EFFECT -->
 <p align="center">
   <img src="./banner.jpg" width="100%" />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer&reversal=false" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -12,91 +13,86 @@
 
 ---
 
-<!-- SOBRE MÍ -->
-## 👨‍💻 Sobre mí
+## 🚀 About Me
 
-```python
-developer = {
-    "nombre":       "Junior Quispe Aquino",
-    "rol":          "Software Developer",
-    "pasión":       "Construir soluciones escalables y limpias",
-    "lenguajes":    ["Python", "PHP", "TypeScript", "SQL"],
-    "frameworks":   ["Django", "Laravel", "Angular"],
-    "bases_datos":  ["MySQL", "PostgreSQL", "MongoDB"],
-    "actualmente":  "Aprendiendo nuevas tecnologías 🚀",
-}
-```
+I have a strong background in systems development, SQL database management, and cybersecurity. I'm passionate about building solutions that solve real-world problems and I'm always looking to learn new technologies.
+
+- 🎓 9th Semester — Systems & Computer Engineering | Universidad Continental
+- 🏅 CCNA 2 Certified – Cisco Networking Academy
+- 🔒 Cybersecurity Certified – Fundación Telefónica (2024)
+- 🤝 Team player who thrives on analytical challenges
+- 🌱 Continuously learning and improving my skills
+- 📍 Pilcomayo, Huancayo, Junín
 
 ---
 
-<!-- TECNOLOGÍAS -->
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,laravel,nodejs" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="48"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,cisco" />
 </p>
 
 ---
 
-<!-- ESTADÍSTICAS DE GITHUB -->
-## 📊 Estadísticas de GitHub
+## 🏅 Certifications
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D" />
-</p>
+| Certification | Issuer | Topics |
+|---|---|---|
+| **CCNA 2 – Switching, Routing and Wireless Essentials** | Cisco Networking Academy | VLANs, STP, OSPF, Switches, Routers, Wireless Networks |
+| **Cybersecurity** | Fundación Telefónica | Applied Cybersecurity |
 
 ---
 
-<!-- GRÁFICA DE ACTIVIDAD -->
-## 🐍 Actividad
+## 🖥️ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&bg_color=0d1117&color=B96FD8&line=B96FD8&point=ffffff&area=true&hide_border=true" />
-</p>
+### 🌐 Internet Café — Full Network Infrastructure
+> Personal Project | Real-world Implementation
 
----
+I fully led the **design, installation, and deployment** of a functional internet café, managing every stage from scratch:
 
-<!-- TROFEOS -->
-## 🏆 Trofeos
+- 🔌 Structured cabling for a stable and scalable infrastructure
+- 💻 Configuration of end-user equipment: operating systems, drivers, and management software
+- 🛠️ Real-time connectivity troubleshooting and problem resolution
+- 📡 Practical application of TCP/IP protocols and LAN/WAN configuration
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+**Technologies:** Cisco · TCP/IP · LAN/WAN · Technical Support · Structured Cabling
 
 ---
 
-<!-- FOOTER -->
+## 🌍 Languages
+
+- 🇪🇸 **Spanish** — Native
+- 🇬🇧 **English** — Intermediate (technical reading)
+
+---
+
+<p align="center">
+  <em>📍 Immediately available — Full time</em>
+</p>
+
+<!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=B96FD8&style=flat" alt="profile views" />
 </p>
