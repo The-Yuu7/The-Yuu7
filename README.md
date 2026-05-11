@@ -1,6 +1,6 @@
 <!-- BANNER + WAVE EFFECT -->
 <p align="center">
-  <img src="./banner-wave.png" width="100%" />
+  <img src="./banner-animated.gif" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
