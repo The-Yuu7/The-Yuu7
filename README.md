@@ -1,89 +1,102 @@
-# Hola, soy Junior Quispe Aquino 👋
+<img src="banner.jpg" alt="banner" width="100%" />
+
+<h1 align="center">Hi, I'm Junior Quispe Aquino 👋</h1>
+
+<p align="center">
+  <em>Systems & Computer Engineering Student — 9th Semester | Universidad Continental, Huancayo 🇵🇪</em>
+</p>
+
+<p align="center">
+  <a href="mailto:juniorquispeaquino77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/senior77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/51953315887">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy estudiante del 9° ciclo de Ingeniería de Sistemas e Informática en la Universidad Continental, ubicado en el **tercio superior** de mi promoción. Cuento con certificación **CCNA 2 de Cisco NetAcad**, lo que me permite configurar y diagnosticar equipos de red como Routers y ONTs.
+I'm a 9th-semester Systems & Computer Engineering student at Universidad Continental, ranked in the **top third** of my class. I hold a **Cisco CCNA 2 certification**, which allows me to configure and troubleshoot network equipment including Routers and ONTs.
 
-Tengo formación en desarrollo de sistemas, gestión de bases de datos SQL y seguridad informática. Me apasiona construir soluciones que resuelvan problemas reales y siempre estoy buscando aprender nuevas tecnologías.
+I have a strong background in systems development, SQL database management, and cybersecurity. I'm passionate about building solutions that solve real-world problems and I'm always looking to learn new technologies.
 
-- 🎓 9° ciclo — Ingeniería de Sistemas e Informática | Universidad Continental
-- 🏅 Certificado CCNA 2 – Cisco Networking Academy
-- 🔒 Certificado en Seguridad Informática – Fundación Telefónica (2024)
-- 🤝 Disfruto el trabajo en equipo y los retos que exigen pensamiento analítico
-- 🌱 Siempre aprendiendo y mejorando mis habilidades
+- 🎓 9th Semester — Systems & Computer Engineering | Universidad Continental
+- 🏅 CCNA 2 Certified – Cisco Networking Academy
+- 🔒 Cybersecurity Certified – Fundación Telefónica (2024)
+- 🤝 Team player who thrives on analytical challenges
+- 🌱 Continuously learning and improving my skills
 - 📍 Pilcomayo, Huancayo, Junín
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### Lenguajes de Programación
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-### Bases de Datos
+### Frameworks & Libraries
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,laravel,nodejs" />
+</p>
 
-### Redes & DevOps
+### Databases & Cloud
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="48"/>
+</p>
 
-### Herramientas
+### Tools & DevOps
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,cisco" />
+</p>
 
 ---
 
-## 🏅 Certificaciones
+## 🏅 Certifications
 
-| Certificación | Entidad | Temas |
+| Certification | Issuer | Topics |
 |---|---|---|
-| **CCNA 2 – Switching, Routing and Wireless Essentials** | Cisco Networking Academy | VLANs, STP, OSPF, Switches, Routers, Redes Inalámbricas |
-| **Seguridad Informática** | Fundación Telefónica | Ciberseguridad aplicada |
+| **CCNA 2 – Switching, Routing and Wireless Essentials** | Cisco Networking Academy | VLANs, STP, OSPF, Switches, Routers, Wireless Networks |
+| **Cybersecurity** | Fundación Telefónica | Applied Cybersecurity |
 
 ---
 
-## 🖥️ Proyectos Destacados
+## 🖥️ Featured Projects
 
-### 🌐 Cabina de Internet — Infraestructura de Red Completa
-> Proyecto propio | Implementación en campo
+### 🌐 Internet Café — Full Network Infrastructure
+> Personal Project | Real-world Implementation
 
-Lideré de forma íntegra el **diseño, instalación y puesta en marcha** de una cabina de internet funcional, gestionando cada etapa desde cero:
+I fully led the **design, installation, and deployment** of a functional internet café, managing every stage from scratch:
 
-- 🔌 Tendido de cableado estructurado para una infraestructura estable y escalable
-- 💻 Configuración de equipos terminales: sistemas operativos, drivers y software de gestión
-- 🛠️ Diagnóstico y resolución de problemas de conectividad en tiempo real
-- 📡 Aplicación práctica de protocolos TCP/IP y configuración LAN/WAN
+- 🔌 Structured cabling for a stable and scalable infrastructure
+- 💻 Configuration of end-user equipment: operating systems, drivers, and management software
+- 🛠️ Real-time connectivity troubleshooting and problem resolution
+- 📡 Practical application of TCP/IP protocols and LAN/WAN configuration
 
-**Tecnologías:** Cisco | TCP/IP | LAN/WAN | Soporte Técnico | Cableado Estructurado
-
----
-
-## 🌍 Idiomas
-
-- 🇪🇸 **Español** — Nativo
-- 🇬🇧 **Inglés** — Intermedio (lectura técnica)
+**Technologies:** Cisco · TCP/IP · LAN/WAN · Technical Support · Structured Cabling
 
 ---
 
-## 📫 Contacto
+## 🌍 Languages
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorquispeaquino77@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/senior77)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51953315887)
+- 🇪🇸 **Spanish** — Native
+- 🇬🇧 **English** — Intermediate (technical reading)
 
 ---
 
 <p align="center">
-  <em>📍 Disponibilidad inmediata — Tiempo completo</em>
+  <em>📍 Immediately available — Full time</em>
 </p>
